@@ -1,0 +1,20 @@
+# Java gitignore
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+.mtj.tmp/
+target/
+build/
+out/
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
